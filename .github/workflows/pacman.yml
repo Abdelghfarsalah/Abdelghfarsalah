@@ -1,0 +1,24 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Pacman Contribution Graph
+        uses: platane/snk@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          layout: "compact"
+          theme: "dark"
+          hide_title: true
+          hide_border: true
+          png: false  # يمكنك التبديل بين png و svg حسب حاجتك
