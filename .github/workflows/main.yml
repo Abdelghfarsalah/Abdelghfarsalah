@@ -10,6 +10,8 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Grant write access to contents
     steps:
       - uses: Platane/snk@v3
         with:
