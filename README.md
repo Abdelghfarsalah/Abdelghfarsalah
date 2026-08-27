@@ -63,6 +63,29 @@
   </a>
 </p>
 
+---
+
+## 📊 Analytics & Code Insights
+
+### 📈 Activity & Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelghfarsalah&theme=tokyo-night&area=true&hide_border=true&border_radius=10" width="100%" />
+</p>
+
+<br>
+
+### 🛠️ GitHub Overview & Languages
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Abdelghfarsalah&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true&border_radius=10" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abdelghfarsalah&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
+</p>
+
+<br>
+
+### 🔥 Streak Analytics & Commit Metrics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.net/?user=Abdelghfarsalah&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
+</p>
 
 ---
 
