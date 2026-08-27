@@ -65,7 +65,15 @@
 
 ---
 
-## 📊 Analytics & Code Insights
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abdelghfarsalah/Abdelghfarsalah/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</p>
+
+---
+
+## 📊 Analytics & Visual Charts
 
 ### 📈 Activity & Contribution Graph
 <p align="center">
@@ -74,17 +82,24 @@
 
 <br>
 
-### 🛠️ GitHub Overview & Languages
+### 🛠️ Profile Overview & Top Languages
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Abdelghfarsalah&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true&border_radius=10" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abdelghfarsalah&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abdelghfarsalah&layout=donut&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
 </p>
 
 <br>
 
-### 🔥 Streak Analytics & Commit Metrics
+### 🔥 Streak Analytics & Milestones
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.net/?user=Abdelghfarsalah&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
+</p>
+
+<br>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdelghfarsalah&theme=tokyonight&no-frame=true&no-bg=true&column=6" width="100%" />
 </p>
 
 ---
