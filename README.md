@@ -59,12 +59,8 @@ I care about **clean architecture, great UX, performance, and maintainable code.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelghfarsalah&show_icons=true&theme=tokyonight&rank_icon=percentile" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelghfarsalah&layout=compact&theme=tokyonight" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelghfarsalah&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Abdelghfarsalah&show_icons=true&theme=tokyonight&rank_icon=percentile" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abdelghfarsalah&layout=compact&theme=tokyonight" width="49%" />
 </p>
 
 ---
