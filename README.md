@@ -1,36 +1,82 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Abdelghfar Khairallah 👋
 
-###
+### Front-End Software Engineer
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+React.js · Next.js · TypeScript · Modern Web Applications
 
-###
+<p align="left">
+  <a href="https://github.com/Abdelghfarsalah">
+    <img src="https://img.shields.io/github/followers/Abdelghfarsalah?style=flat&label=Followers" />
+  </a>
+  <a href="https://github.com/Abdelghfarsalah">
+    <img src="https://komarev.com/ghpvc/?username=Abdelghfarsalah&style=flat&label=Profile%20Views" />
+  </a>
+</p>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+---
 
-###
+## ⚡ Tech Stack
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,git,github,vercel" />
+</p>
 
-###
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Abdelghfarsalah&show_icons=true&hide_border=true&theme=transparent"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelghfarsalah&layout=compact&hide_border=true&theme=transparent"
+    height="170"
+  />
+</p>
+
+---
+
+## 📈 Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelghfarsalah&theme=github-compact&hide_border=true"
+    width="100%"
+  />
+</p>
+
+---
+
+## 🚀 Selected Work
+
+| Project | Description | Stack |
+|---|---|---|
+| **NovaMart** | Multilingual e-commerce platform | Next.js · TypeScript · Redux |
+| **Portfolio** | Personal developer portfolio | Next.js · React · Tailwind |
+
+<p>
+  <a href="https://github.com/Abdelghfarsalah/NovaMart">NovaMart →</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/Abdelghfarsalah/portfolio">Portfolio →</a>
+</p>
+
+---
+
+## 🎯 Focus
+
+`React` · `Next.js` · `TypeScript` · `Performance` · `Accessibility` · `SEO`
+
+---
+
+## 🤝 Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/abdelghfar-khairallah-a55896261/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Abdelghfarsalah">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
