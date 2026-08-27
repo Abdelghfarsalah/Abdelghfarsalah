@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://github.com/Abdelghfarsalah">
-    <img src="https://img.shields.io/badge/GitHub-Abdelghfarsalah-181717?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Abdelghfarsalah-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abdelghfar-khairallah-a55896261/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdelghfar%20Khairallah-0A66C2?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Abdelghfar%20Khairallah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -40,61 +40,8 @@ I care about **clean architecture, great UX, performance, and maintainable code.
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,git,github,vercel,vscode,figma" />
 </p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    width="49%"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    width="49%"
-  />
-</p>
-
----
-
-## 🚀 Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛍️ NovaMart
-
-Modern multilingual e-commerce platform.
-
-**Built with**
-
-`Next.js` `React` `TypeScript`  
-`Redux Toolkit` `Tailwind CSS` `next-intl`
-
-[View Repository →](https://github.com/Abdelghfarsalah/NovaMart)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 Portfolio
-
-Modern developer portfolio focused on performance, accessibility, SEO, and clean architecture.
-
-**Built with**
-
-`Next.js` `React` `TypeScript`  
-`Tailwind CSS` `Framer Motion`
-
-[View Repository →](https://github.com/Abdelghfarsalah/portfolio)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -109,6 +56,19 @@ Modern developer portfolio focused on performance, accessibility, SEO, and clean
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelghfarsalah&show_icons=true&theme=tokyonight&rank_icon=percentile" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelghfarsalah&layout=compact&theme=tokyonight" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelghfarsalah&theme=tokyonight" width="100%" />
+</p>
+
+---
+
 ## 🎯 Current Focus
 
 <p align="center">
@@ -117,28 +77,6 @@ Modern developer portfolio focused on performance, accessibility, SEO, and clean
 
 `Performance` · `Accessibility` · `SEO` · `AI Applications`
 
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./profile/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./profile/github-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="./profile/github-snake.svg"
-      width="100%"
-    />
-  </picture>
 </p>
 
 ---
