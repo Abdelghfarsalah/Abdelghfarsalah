@@ -19,19 +19,23 @@
 
 ## ⚡ Quick Summary
 
-I'm a passionate **Front-End Software Engineer** dedicated to crafting exceptional user experiences.
+<br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Performance-🚀-1f2335?style=flat-square&labelColor=1a1b26&color=7aa2f7" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-🧩-1f2335?style=flat-square&labelColor=1a1b26&color=7dcfff" />
-  <img src="https://img.shields.io/badge/Scalable%20UI-⚛️-1f2335?style=flat-square&labelColor=1a1b26&color=9ece6a" />
-  <img src="https://img.shields.io/badge/Accessibility-📱-1f2335?style=flat-square&labelColor=1a1b26&color=e0af68" />
-  <img src="https://img.shields.io/badge/SEO-🔎-1f2335?style=flat-square&labelColor=1a1b26&color=f7768e" />
+
+| 🚀 **Performance** | 🧩 **Architecture** | ⚛️ **Scalable UI** | 📱 **Accessibility** | 🔎 **SEO** |
+| :---: | :---: | :---: | :---: | :---: |
+| High-Speed Apps | Clean Codebase | Component-Driven | WCAG Compliant | Search Optimized |
+
 </div>
 
 <br>
 
-> *I believe in writing clean, maintainable code that creates smooth and delightful digital products.*
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Crafting_Exceptional_User_Experiences-7aa2f7?style=for-the-badge&logoColor=white&labelColor=1a1b26" />
+</p>
+
+> 💡 *I believe in writing clean, maintainable code that creates smooth and delightful digital products.*
 
 ---
 
