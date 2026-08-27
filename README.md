@@ -41,20 +41,28 @@
 
 ## 🧰 Tech Spectrum
 
+<br>
+
+<div align="center">
+
+| Category | Core Stack & Tools |
+| :--- | :--- |
+| **Frontend Frameworks** | `React.js` · `Next.js` (App Router) |
+| **Languages** | `TypeScript` · `JavaScript (ES6+)` · `HTML5` · `CSS3` |
+| **Styling & UI** | `Tailwind CSS` · `CSS Modules` · `Framer Motion` |
+| **State Management** | `Redux Toolkit` · `Zustand` · `Context API` |
+| **Tools & Architecture** | `Git` · `GitHub` · `Vercel` · `VS Code` · `Figma` |
+
+</div>
+
+<br>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,git,github,vercel,vscode,figma&theme=dark" />
   </a>
 </p>
 
----
-
-## 📊 Visualizing Code
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Abdelghfarsalah&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true&border_radius=10" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abdelghfarsalah&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
-</p>
 
 ---
 
