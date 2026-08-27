@@ -47,9 +47,9 @@ I'm a passionate **Front-End Software Engineer** dedicated to crafting exception
 
 ## 📊 Visualizing Code
 
-### 📅 Contribution Heatmap
+### 📅 Contribution Snake
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelghfarsalah&theme=tokyo-night&area=true&hide_border=true&border_radius=10" width="100%" />
+  <img src="https://raw.githubusercontent.com/Abdelghfarsalah/Abdelghfarsalah/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
 
 <br>
