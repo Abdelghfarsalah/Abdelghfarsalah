@@ -45,18 +45,11 @@ I care about **clean architecture, great UX, performance, and maintainable code.
 
 ---
 
-## 💼 Experience
+## 📈 Activity & Insights
 
-| Role | Organization |
-| --- | --- |
-| **Software Engineer** | King Fahd National Library · Riyadh |
-| **Front-End Developer** | Egyptian Armed Forces |
-| **Freelance Front-End Developer** | Trend |
-| **Freelance Front-End Developer** | Interactive Chess Platform |
-
----
-
-## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelghfarsalah&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Abdelghfarsalah&show_icons=true&theme=tokyonight&rank_icon=percentile" width="49%" />
