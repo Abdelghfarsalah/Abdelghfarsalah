@@ -65,19 +65,29 @@
 
 ---
 
-## 📊 Analytics & Visual Charts
-
-### 🛠️ Profile Overview & Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelghfarsalah&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true&border_radius=10" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelghfarsalah&layout=donut&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
-</p>
+## 📊 Analytics & Tech Distribution
 
 <br>
 
-### 📈 Daily Contribution Activity
+<div align="center">
+
+### 🛠️ Core Proficiency & Activity Breakdown
+
+| Tech / Language | Category | Primary Focus & Usage | Status |
+| :--- | :--- | :--- | :---: |
+| **TypeScript / JS** | Logic & Apps | Modern Web Architecture & Scalable Systems | 🟢 Active |
+| **React / Next.js** | Frameworks | Server Components, SPA/SSR & Routing | 🟢 Active |
+| **Tailwind CSS** | Design & UI | Utility-First Responsive Styling | 🟢 Active |
+| **Redux / Zustand** | State Management | Global Application Data & Caching | 🟢 Active |
+| **HTML5 / CSS3** | Web Foundation | Semantic Markup & Accessible Design | 🟢 Active |
+
+</div>
+
+<br>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelghfarsalah&theme=tokyo-night&area=true&hide_border=true&border_radius=10" width="100%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Abdelghfarsalah&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="GitHub Stats" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abdelghfarsalah&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="Top Languages" />
 </p>
 
 ---
