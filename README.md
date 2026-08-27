@@ -1,42 +1,41 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0B0C10,50:1F2833,100:66FCF1&height=220&section=header&text=🛸%20ABDELGHFAR%20KHAIRALLAH&fontSize=42&animation=twinkle&fontAlignY=40&desc=FRONT-END%20SOFTWARE%20ENGINEER&descAlignY=68&descScale=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Abdelghfar%20Khairallah&fontSize=48&animation=fadeIn&fontAlignY=38&theme=tokyonight&desc=Front-End%20Software%20Engineer&descAlignY=65&descScale=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=66FCF1&center=true&vCenter=true&width=500&lines=🌌+Exploring+the+Frontend+Cosmos;⚡+React.js+%7C+Next.js+%7C+TypeScript;🚀+Architecting+High-Performance+Web-Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Applications;React.js+%7C+Next.js+%7C+TypeScript;Focused+on+Performance+%26+Clean+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Abdelghfarsalah">
-    <img src="https://img.shields.io/badge/Orbital_GitHub-0B0C10?style=for-the-badge&logo=github&logoColor=66FCF1" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=121212" />
   </a>
   <a href="https://www.linkedin.com/in/abdelghfar-khairallah-a55896261/">
-    <img src="https://img.shields.io/badge/Interstellar_LinkedIn-0B0C10?style=for-the-badge&logo=linkedin&logoColor=45A29E" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
+## ⚡ Quick Summary
 
-## 🛰️ Mission Parameters
-
-I'm a **Front-End Software Engineer** navigating through the digital universe, building high-speed and ultra-scalable web interfaces.
+I'm a passionate **Front-End Software Engineer** dedicated to crafting exceptional user experiences.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Warp_Speed-Performance_🚀-black?style=flat-square&labelColor=0B0C10&color=66FCF1" />
-  <img src="https://img.shields.io/badge/System_Design-Clean_Architecture_🧩-black?style=flat-square&labelColor=0B0C10&color=45A29E" />
-  <img src="https://img.shields.io/badge/UI_Modules-Scalable_Components_⚛️-black?style=flat-square&labelColor=0B0C10&color=66FCF1" />
-  <img src="https://img.shields.io/badge/Telemetry-SEO_%26_Analytics_🔎-black?style=flat-square&labelColor=0B0C10&color=45A29E" />
+  <img src="https://img.shields.io/badge/Performance-🚀-1f2335?style=flat-square&labelColor=1a1b26&color=7aa2f7" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-🧩-1f2335?style=flat-square&labelColor=1a1b26&color=7dcfff" />
+  <img src="https://img.shields.io/badge/Scalable%20UI-⚛️-1f2335?style=flat-square&labelColor=1a1b26&color=9ece6a" />
+  <img src="https://img.shields.io/badge/Accessibility-📱-1f2335?style=flat-square&labelColor=1a1b26&color=e0af68" />
+  <img src="https://img.shields.io/badge/SEO-🔎-1f2335?style=flat-square&labelColor=1a1b26&color=f7768e" />
 </div>
 
-> *"Coding at the speed of light, ensuring optimal UX across all galaxy viewports."*
+<br>
+
+> *I believe in writing clean, maintainable code that creates smooth and delightful digital products.*
 
 ---
 
-## 🧰 Galactic Tech Arsenal
+## 🧰 Tech Spectrum
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -46,52 +45,48 @@ I'm a **Front-End Software Engineer** navigating through the digital universe, b
 
 ---
 
-## 🌌 Cosmic Activity & Telemetry
+## 📊 Visualizing Code
 
-### 📊 Deep Space Commits
+### 📅 Contribution Heatmap
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelghfarsalah&theme=synthwave&area=true&hide_border=true&border_radius=12" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelghfarsalah&theme=tokyo-night&area=true&hide_border=true&border_radius=10" width="100%" />
 </p>
 
 <br>
 
-### 📡 Orbital Transmission Metrics
+### 🛠️ Core Metrics & Language Mix
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Abdelghfarsalah&show_icons=true&theme=synthwave&rank_icon=percentile&hide_border=true&border_radius=12" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abdelghfarsalah&layout=compact&theme=synthwave&hide_border=true&border_radius=12" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Abdelghfarsalah&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true&border_radius=10" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abdelghfarsalah&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
 </p>
 
 ---
 
-## 👨‍🚀 Current Space Sector Focus
+## 🎯 Current Horizon
 
-| Sector | Mission Objectives |
+| Domain | Key Technologies / Concepts |
 | :--- | :--- |
-| **🚀 Frameworks** | `Next.js` (App Router), `React.js` Micro-Frontends |
-| **⚡ Languages** | `TypeScript`, Advanced Modern `ES6+` |
-| **🛸 Systems** | State Management (`Redux` / `Zustand`), Atomic Design |
-| **👾 Optimization** | Core Web Vitals, Edge Rendering, Performance Metrics |
-| **🤖 AI Integration** | AI-driven UI Systems & Smart Web Assistants |
+| **Frameworks** | `React.js`, `Next.js` (App Router) |
+| **Languages** | `TypeScript`, `JavaScript` (ES6+) |
+| **Architecture** | Component-Driven Design, State Management (Redux/Zustand) |
+| **Performance** | Core Web Vitals, SSR, Static Generation |
+| **AI Integration** | Exploring AI-powered features in frontend applications |
 
 ---
 
-## 📡 Establish Quantum Link
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelghfar-khairallah-a55896261/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Open_Signal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
   <a href="https://github.com/Abdelghfarsalah">
-    <img src="https://img.shields.io/badge/GITHUB-Establish_Connection-181717?style=for-the-badge&logo=github&logoColor=66FCF1" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=333" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
-<p align="center">
-  <sub>🛸 Powered by Stardust, Coffee, and Clean Frontend Code.</sub>
+  <sub>Built with ❤️ and Markdown. Let's create something amazing together!</sub>
 </p>
