@@ -47,14 +47,6 @@ I'm a passionate **Front-End Software Engineer** dedicated to crafting exception
 
 ## 📊 Visualizing Code
 
-### 📅 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdelghfarsalah/Abdelghfarsalah/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</p>
-
-<br>
-
-### 🛠️ Core Metrics & Language Mix
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Abdelghfarsalah&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true&border_radius=10" width="49%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abdelghfarsalah&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
