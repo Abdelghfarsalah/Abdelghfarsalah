@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AbdelghfarKhairallah1">
+  <a href="https://github.com/Abdelghfarsalah">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=121212" />
   </a>
   <a href="https://www.linkedin.com/in/abdelghfar-khairallah-a55896261/">
@@ -69,15 +69,15 @@
 
 ### 🛠️ Profile Overview & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AbdelghfarKhairallah1&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true&border_radius=10" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AbdelghfarKhairallah1&layout=donut&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelghfarsalah&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true&border_radius=10" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelghfarsalah&layout=donut&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
 </p>
 
 <br>
 
-### 📈 Contribution Summary
+### 📈 Daily Contribution Activity
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdelghfarKhairallah1&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelghfarsalah&theme=tokyo-night&area=true&hide_border=true&border_radius=10" width="100%" />
 </p>
 
 ---
@@ -100,7 +100,7 @@
   <a href="https://www.linkedin.com/in/abdelghfar-khairallah-a55896261/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
-  <a href="https://github.com/AbdelghfarKhairallah1">
+  <a href="https://github.com/Abdelghfarsalah">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=333" />
   </a>
 </p>
