@@ -91,7 +91,15 @@
 </p>
 
 ---
+---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abdelghfarsalah/Abdelghfarsalah/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</p>
+
+---
 ## 🎯 Current Horizon
 
 | Domain | Key Technologies / Concepts |
