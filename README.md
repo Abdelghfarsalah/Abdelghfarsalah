@@ -22,16 +22,15 @@ React.js · Next.js · TypeScript · Modern Web Applications
 </p>
 
 ---
-
 ## 📊 GitHub
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Abdelghfarsalah&show_icons=true&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=Abdelghfarsalah&show_icons=true&hide_border=true&theme=github_dark"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelghfarsalah&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelghfarsalah&layout=compact&hide_border=true&theme=github_dark"
     height="170"
   />
 </p>
@@ -46,9 +45,6 @@ React.js · Next.js · TypeScript · Modern Web Applications
     width="100%"
   />
 </p>
-
----
-
 ## 🚀 Selected Work
 
 | Project | Description | Stack |
