@@ -218,29 +218,3 @@
 <p align="center">
   <sub>Built with ❤️ and Markdown. Let's create something amazing together!</sub>
 </p>
-```
-
-### 📁 ترتيب الملفات
-
-لازم تحط الصورة بالشكل ده داخل الـRepository:
-
-```text
-Abdelghfarsalah/
-│
-├── README.md
-│
-└── assets/
-    └── profile.jpg
-```
-
-**اسم الصورة مهم:** لو صورتك اسمها `profile.png` بدل `profile.jpg`، غيّر:
-
-```html
-src="./assets/profile.jpg"
-```
-
-إلى:
-
-```html
-src="./assets/profile.png"
-```
