@@ -1,16 +1,95 @@
 
+<!-- ==================== HERO ==================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Abdelghfar%20Khairallah&fontSize=48&animation=fadeIn&fontAlignY=38&theme=tokyonight&desc=Front-End%20Software%20Engineer&descAlignY=65&descScale=18" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=230&section=header&text=Abdelghfar%20Khairallah&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&theme=tokyonight&desc=Front-End%20Software%20Engineer&descAlignY=64&descScale=18"
+    width="100%"
+  />
 </p>
 
-<!-- 👤 Profile Picture -->
+<br>
+
+<!-- Profile -->
 <p align="center">
   <img
     src="./assets/profile.png"
     alt="Abdelghfar Khairallah"
-    width="180"
+    width="175"
+    style="border-radius: 50%;"
   />
-</p>  in readme in my profile i need to make this section make modern and beatuiful 
+</p>
+
+<br>
+
+<!-- Introduction -->
+<h1 align="center">
+  Hi, I'm Abdelghfar 👋
+</h1>
+
+<p align="center">
+  <strong>Front-End Software Engineer</strong>
+</p>
+
+<p align="center">
+  Building modern, scalable & high-performance web experiences
+  <br>
+  with <strong>React</strong>, <strong>Next.js</strong> & <strong>TypeScript</strong>.
+</p>
+
+<br>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;React.js+%7C+Next.js+%7C+TypeScript;Creating+Scalable+%26+Reusable+UI;Focused+on+Performance+%26+Clean+Code"
+    alt="Typing Animation"
+  />
+</p>
+
+<br>
+
+<!-- Social Links -->
+<p align="center">
+
+  <a href="https://github.com/Abdelghfarsalah">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/abdelghfar-khairallah-a55896261/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+</p>
+
+<br>
+
+<!-- Tech Stack -->
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,nodejs,git,github,vercel,figma&theme=dark"
+    alt="Tech Stack"
+  />
+</p>
+
+<br>
+
+<!-- Bottom Wave -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b26&height=100&section=footer"
+    width="100%"
+  />
+</p>
+
+<!-- ==================== END HERO ==================== -->
+
 
 
 ---
