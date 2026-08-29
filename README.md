@@ -10,11 +10,7 @@
     alt="Abdelghfar Khairallah"
     width="180"
   />
-</p>
-  
-
-</div>
-
+</p>  in readme in my profile i need to make this section make modern and beatuiful 
 
 
 ---
