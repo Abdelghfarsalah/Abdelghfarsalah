@@ -1,7 +1,7 @@
 
 <!-- ==================== PREMIUM HERO ==================== -->
 
-<table width="100%">
+<table width="100%"  style="border: none;">
 <tr>
 
 <!-- LEFT SIDE -->
