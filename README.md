@@ -1,55 +1,102 @@
 
-<!-- ==================== HERO SECTION ==================== -->
+<!-- ==================== PREMIUM HERO ==================== -->
 
-<table>
+<table width="100%">
 <tr>
-<td width="65%" align="center">
 
+<!-- LEFT SIDE -->
+<td width="68%" align="left">
+
+<br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:24283b&height=180&section=header&text=Abdelghfar%20Khairallah&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&theme=tokyonight&desc=Front-End%20Software%20Engineer&descAlignY=65&descScale=17"
+  width="100%"
+/>
+
+<br>
+
+<p>
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=230&section=header&text=Abdelghfar%20Khairallah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&theme=tokyonight&desc=Front-End%20Software%20Engineer&descAlignY=64&descScale=18"
-    width="100%"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=7AA2F7&width=520&lines=Building+Modern+Web+Applications;React.js+%7C+Next.js+%7C+TypeScript;Scalable+UI+%7C+Clean+Architecture;Performance+%7C+Accessibility+%7C+SEO"
+    alt="Typing Animation"
   />
+</p>
+
+<br>
+
+<p>
+  <strong>🚀 Front-End Engineer</strong>
+  <br><br>
+  I design and build modern, scalable web applications
+  with a strong focus on performance, clean architecture,
+  and exceptional user experiences.
+</p>
+
+<br>
+
+<p>
+
+<a href="https://github.com/Abdelghfarsalah">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/abdelghfar-khairallah-a55896261/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
+
+</p>
 
 </td>
 
-<td width="35%" align="center">
 
-  <img
-    src="./assets/profile.png"
-    alt="Abdelghfar Khairallah"
-    width="190"
-  />
+<!-- RIGHT SIDE -->
+<td width="32%" align="center">
+
+<br><br>
+
+<img
+  src="./assets/profile.png"
+  alt="Abdelghfar Khairallah"
+  width="210"
+  style="border-radius: 50%;"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/⚡_Open_to_Work-7AA2F7?style=for-the-badge&labelColor=1a1b26"
+  alt="Open to Work"
+/>
+
+<br><br>
+
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark"
+  alt="Main Technologies"
+/>
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;React.js+%7C+Next.js+%7C+TypeScript;Creating+Scalable+%26+Reusable+UI;Focused+on+Performance+%26+Clean+Code"
-    alt="Typing Animation"
-  />
-</p>
+<!-- TECH STACK -->
 
 <p align="center">
-  <a href="https://github.com/Abdelghfarsalah">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
 
-  <a href="https://www.linkedin.com/in/abdelghfar-khairallah-a55896261/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,git,github,vercel,vscode,figma&theme=dark"
+  alt="Tech Stack"
+/>
+
 </p>
-
-<!-- ==================== END HERO ==================== -->
 
 
 
