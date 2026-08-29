@@ -6,7 +6,7 @@
 <!-- 👤 Profile Picture -->
 <p align="center">
   <img
-    src="./assets/profile.jpg"
+    src="./assets/profile.png"
     alt="Abdelghfar Khairallah"
     width="180"
   />
