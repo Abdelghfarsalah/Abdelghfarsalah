@@ -5,9 +5,8 @@
 <td width="68%" align="left" border="0">
 
 <br>
-
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:24283b&height=180&section=header&text=Abdelghfar%20Khairallah&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&theme=tokyonight&desc=Front-End%20Software%20Engineer&descAlignY=65&descScale=17"
+  src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:172554,100:312e81&height=240&section=header&text=Abdelghfar%20Khairallah&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Front-End%20Software%20Engineer%20%E2%80%94%20Crafting%20modern%20web%20experiences&descAlignY=62&descSize=16&descColor=cbd5e1"
   width="100%"
 />
 
