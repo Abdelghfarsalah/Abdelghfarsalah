@@ -140,31 +140,122 @@
 </p>
 
 ---
+<!-- ===================== ANALYTICS ===================== -->
 
 ## 📊 Analytics & Tech Distribution
 
-<br>
-
 <div align="center">
 
-### 🛠️ Core Proficiency & Activity Breakdown
+### 🛠️ Core Proficiency
 
-| Tech / Language | Category | Primary Focus & Usage | Status |
-| :--- | :--- | :--- | :---: |
-| **TypeScript / JS** | Logic & Apps | Modern Web Architecture & Scalable Systems | 🟢 Active |
-| **React / Next.js** | Frameworks | Server Components, SPA/SSR & Routing | 🟢 Active |
-| **Tailwind CSS** | Design & UI | Utility-First Responsive Styling | 🟢 Active |
-| **Redux / Zustand** | State Management | Global Application Data & Caching | 🟢 Active |
-| **HTML5 / CSS3** | Web Foundation | Semantic Markup & Accessible Design | 🟢 Active |
+<table>
+<tr>
+<td align="center" width="20%">
+
+### ⚡ TypeScript / JS
+
+**Logic & Applications**
+
+Modern Web Architecture  
+Scalable Systems
+
+🟢 **Active**
+
+</td>
+
+<td align="center" width="20%">
+
+### ⚛️ React / Next.js
+
+**Frameworks**
+
+Server Components  
+SPA / SSR & Routing
+
+🟢 **Active**
+
+</td>
+
+<td align="center" width="20%">
+
+### 🎨 Tailwind CSS
+
+**Design & UI**
+
+Utility-First  
+Responsive Styling
+
+🟢 **Active**
+
+</td>
+
+<td align="center" width="20%">
+
+### 🔄 Redux / Zustand
+
+**State Management**
+
+Global State  
+Data & Caching
+
+🟢 **Active**
+
+</td>
+
+<td align="center" width="20%">
+
+### 🌐 HTML / CSS
+
+**Web Foundation**
+
+Semantic Markup  
+Accessible Design
+
+🟢 **Active**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 💻 GitHub Analytics
+
+<a href="https://github.com/Abdelghfarsalah">
+  <img
+    src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Abdelghfarsalah&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0D1117"
+    width="49%"
+  />
+</a>
+
+<a href="https://github.com/Abdelghfarsalah">
+  <img
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abdelghfarsalah&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0D1117"
+    width="49%"
+  />
+</a>
+
+<br><br>
+
+### 🔥 Contribution Activity
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelghfarsalah&theme=tokyonight&hide_border=true&background=0D1117&border_radius=16"
+  width="70%"
+/>
+
+<br><br>
+
+### 📈 Contribution Graph
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelghfarsalah&theme=tokyo-night&hide_border=true&radius=16&area=true"
+  width="95%"
+/>
 
 </div>
 
-<br>
-
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Abdelghfarsalah&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="GitHub Stats" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abdelghfarsalah&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="Top Languages" />
-</p>
+<!-- ===================== END ANALYTICS ===================== -->
 
 ---
 
