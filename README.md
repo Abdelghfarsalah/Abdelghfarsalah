@@ -1,5 +1,15 @@
+```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Abdelghfar%20Khairallah&fontSize=48&animation=fadeIn&fontAlignY=38&theme=tokyonight&desc=Front-End%20Software%20Engineer&descAlignY=65&descScale=18" />
+</p>
+
+<!-- 👤 Profile Picture -->
+<p align="center">
+  <img
+    src="./assets/profile.jpg"
+    alt="Abdelghfar Khairallah"
+    width="180"
+  />
 </p>
 
 <p align="center">
@@ -91,7 +101,6 @@
 </p>
 
 ---
----
 
 ## 🐍 Contribution Activity
 
@@ -114,6 +123,7 @@
 </p>
 
 ---
+
 ## 🎯 Current Horizon
 
 | Domain | Key Technologies / Concepts |
@@ -142,3 +152,29 @@
 <p align="center">
   <sub>Built with ❤️ and Markdown. Let's create something amazing together!</sub>
 </p>
+```
+
+### 📁 ترتيب الملفات
+
+لازم تحط الصورة بالشكل ده داخل الـRepository:
+
+```text
+Abdelghfarsalah/
+│
+├── README.md
+│
+└── assets/
+    └── profile.jpg
+```
+
+**اسم الصورة مهم:** لو صورتك اسمها `profile.png` بدل `profile.jpg`، غيّر:
+
+```html
+src="./assets/profile.jpg"
+```
+
+إلى:
+
+```html
+src="./assets/profile.png"
+```
