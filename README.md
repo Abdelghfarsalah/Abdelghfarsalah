@@ -1,33 +1,30 @@
 
 <!-- ==================== PREMIUM HERO ==================== -->
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
+<!-- ==================== PREMIUM HERO ==================== -->
 
-<!-- LEFT SIDE -->
-<td width="68%" align="left" border="0">
-
-<br>
+<div align="center">
 
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:24283b&height=180&section=header&text=Abdelghfar%20Khairallah&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&theme=tokyonight&desc=Front-End%20Software%20Engineer&descAlignY=65&descScale=17"
   width="100%"
+  alt="Abdelghfar Khairallah"
 />
 
 <br>
 
-<p>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=7AA2F7&width=520&lines=Building+Modern+Web+Applications;React.js+%7C+Next.js+%7C+TypeScript;Scalable+UI+%7C+Clean+Architecture;Performance+%7C+Accessibility+%7C+SEO"
-    alt="Typing Animation"
-  />
-</p>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=7AA2F7&width=520&lines=Building+Modern+Web+Applications;React.js+%7C+Next.js+%7C+TypeScript;Scalable+UI+%7C+Clean+Architecture;Performance+%7C+Accessibility+%7C+SEO"
+  alt="Typing Animation"
+/>
 
-<br>
+<br><br>
 
 <p>
   <strong>🚀 Front-End Engineer</strong>
-  <br><br>
+</p>
+
+<p>
   I design and build modern, scalable web applications
   with a strong focus on performance, clean architecture,
   and exceptional user experiences.
@@ -35,26 +32,19 @@
 
 <br>
 
-<p>
-
 <a href="https://github.com/Abdelghfarsalah">
   <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logo=github&logoColor=white"
+    alt="GitHub"
   />
 </a>
 
 <a href="https://www.linkedin.com/in/abdelghfar-khairallah-a55896261/">
   <img
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
   />
 </a>
-
-</p>
-
-</td>
-
-<!-- RIGHT SIDE -->
-<td width="32%" align="center" border="0">
 
 <br><br>
 
@@ -78,12 +68,11 @@
   alt="Main Technologies"
 />
 
-</td>
-
-</tr>
-</table>
+</div>
 
 <br>
+
+---
 
 ## 🐍 Contribution Activity
 
