@@ -87,16 +87,7 @@
 
 <br>
 
-<!-- TECH STACK -->
 
-<p align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,git,github,vercel,vscode,figma&theme=dark"
-  alt="Tech Stack"
-/>
-
-</p>
 
 
 
