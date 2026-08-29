@@ -5,7 +5,7 @@
 <tr>
 
 <!-- LEFT SIDE -->
-<td width="68%" align="left">
+<td width="68%" align="left" style="border: none;" >
 
 <br>
 
@@ -55,7 +55,7 @@
 
 
 <!-- RIGHT SIDE -->
-<td width="32%" align="center">
+<td width="32%" align="center" style="border: none;">
 
 <br><br>
 
