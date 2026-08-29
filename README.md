@@ -250,17 +250,7 @@ Accessible Design
 
 <br>
 
-### 📈 Contribution Graph
 
-<p align="center">
-  <a href="https://github.com/Abdelghfarsalah">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelghfarsalah&theme=tokyo-night&hide_border=true&radius=12&area=true"
-      alt="GitHub Activity Graph"
-      width="95%"
-    />
-  </a>
-</p>
 <!-- ===================== END ANALYTICS ===================== -->
 
 ---
