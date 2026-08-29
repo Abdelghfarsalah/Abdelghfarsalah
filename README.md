@@ -1,16 +1,77 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Abdelghfar%20Khairallah&fontSize=48&animation=fadeIn&fontAlignY=38&theme=tokyonight&desc=Front-End%20Software%20Engineer&descAlignY=65&descScale=18" />
-</p>
 
-<!-- 👤 Profile Picture -->
-<p align="center">
+<!-- ===================== HERO SECTION ===================== -->
+
+<div align="center">
+
+  <!-- Header -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=220&section=header&text=Abdelghfar%20Khairallah&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Software%20Engineer&descAlignY=62&descSize=18&descColor=bb9af7"
+    width="100%"
+  />
+
+  <br>
+
+  <!-- Profile Picture -->
   <img
     src="./assets/profile.png"
     alt="Abdelghfar Khairallah"
-    width="180"
+    width="170"
   />
-</p>
+
+  <br><br>
+
+  <!-- Introduction -->
+  <h1>Hi, I'm Abdelghfar 👋</h1>
+
+  <h3>
+    Front-End Software Engineer
+  </h3>
+
+  <p>
+    I build modern, scalable, and high-performance web applications
+    <br>
+    with a strong focus on <b>clean code</b>, <b>UX</b>, and <b>performance</b>.
+  </p>
+
+  <br>
+
+  <!-- Typing Animation -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;React.js+%7C+Next.js+%7C+TypeScript;Creating+Scalable+%26+Reusable+UI;Focused+on+Performance+%26+Clean+Code"
+    alt="Typing animation"
+  />
+
+  <br><br>
+
+  <!-- Social Links -->
+  <a href="https://github.com/Abdelghfarsalah">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/abdelghfar-khairallah-a55896261/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <br><br>
+
+  <!-- Tech Stack -->
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,nodejs,git,github,vercel,figma&theme=dark"
+    alt="Tech Stack"
+  />
+
+</div>
+
+<!-- ===================== END HERO SECTION ===================== -->
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Applications;React.js+%7C+Next.js+%7C+TypeScript;Focused+on+Performance+%26+Clean+Code" alt="Typing SVG" />
