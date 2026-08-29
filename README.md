@@ -213,8 +213,4 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <sub>Built with ❤️ and Markdown. Let's create something amazing together!</sub>
-</p>
+>
