@@ -239,21 +239,28 @@ Accessible Design
 
 ### 🔥 Contribution Activity
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelghfarsalah&theme=tokyonight&hide_border=true&background=0D1117&border_radius=16"
-  width="70%"
-/>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.vercel.app?user=Abdelghfarsalah&theme=tokyonight&hide_border=true&border_radius=12"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
 
-<br><br>
+<br>
 
 ### 📈 Contribution Graph
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelghfarsalah&theme=tokyo-night&hide_border=true&radius=16&area=true"
-  width="95%"
-/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/Abdelghfarsalah">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelghfarsalah&theme=tokyo-night&hide_border=true&radius=12&area=true"
+      alt="GitHub Activity Graph"
+      width="95%"
+    />
+  </a>
+</p>
 
 <!-- ===================== END ANALYTICS ===================== -->
 
