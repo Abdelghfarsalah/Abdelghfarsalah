@@ -1,22 +1,25 @@
-
 <!-- ==================== PREMIUM HERO ==================== -->
 
-<table width="100%"  style="border: none;">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
 
-<!-- LEFT SIDE -->
-<td width="68%" align="left" style="border: none;" >
+<!-- ==================== LEFT SIDE ==================== -->
+
+<td width="68%" align="left" valign="top">
 
 <br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:24283b&height=180&section=header&text=Abdelghfar%20Khairallah&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&theme=tokyonight&desc=Front-End%20Software%20Engineer&descAlignY=65&descScale=17"
-  width="100%"
-/>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:24283b&height=180&section=header&text=Abdelghfar%20Khairallah&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&theme=tokyonight&desc=Front-End%20Software%20Engineer&descAlignY=65&descScale=17"
+    width="100%"
+    alt="Abdelghfar Khairallah"
+  />
+</p>
 
 <br>
 
-<p>
+<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=7AA2F7&width=520&lines=Building+Modern+Web+Applications;React.js+%7C+Next.js+%7C+TypeScript;Scalable+UI+%7C+Clean+Architecture;Performance+%7C+Accessibility+%7C+SEO"
     alt="Typing Animation"
@@ -27,7 +30,9 @@
 
 <p>
   <strong>🚀 Front-End Engineer</strong>
-  <br><br>
+</p>
+
+<p>
   I design and build modern, scalable web applications
   with a strong focus on performance, clean architecture,
   and exceptional user experiences.
@@ -40,12 +45,14 @@
 <a href="https://github.com/Abdelghfarsalah">
   <img
     src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
   />
 </a>
 
 <a href="https://www.linkedin.com/in/abdelghfar-khairallah-a55896261/">
   <img
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
   />
 </a>
 
@@ -54,16 +61,16 @@
 </td>
 
 
-<!-- RIGHT SIDE -->
-<td width="32%" align="center" style="border: none;">
+<!-- ==================== RIGHT SIDE ==================== -->
 
-<br><br>
+<td width="32%" align="center" valign="top">
+
+<br>
 
 <img
   src="./assets/profile.png"
   alt="Abdelghfar Khairallah"
   width="210"
-  style="border-radius: 50%;"
 />
 
 <br><br>
@@ -80,6 +87,8 @@
   alt="Main Technologies"
 />
 
+<br>
+
 </td>
 
 </tr>
@@ -87,6 +96,127 @@
 
 <br>
 
+---
+
+<!-- ==================== ANALYTICS ==================== -->
+
+## 📊 Analytics & Tech Distribution
+
+<div align="center">
+
+### 🛠️ Core Proficiency
+
+<table width="100%" cellspacing="0" cellpadding="8" border="0">
+<tr>
+
+<td align="center" width="20%">
+
+### ⚡ TypeScript / JS
+
+**Logic & Apps**
+
+Modern Web Architecture  
+Scalable Systems
+
+🟢 **Active**
+
+</td>
+
+<td align="center" width="20%">
+
+### ⚛️ React / Next.js
+
+**Frameworks**
+
+Server Components  
+SPA / SSR & Routing
+
+🟢 **Active**
+
+</td>
+
+<td align="center" width="20%">
+
+### 🎨 Tailwind CSS
+
+**Design & UI**
+
+Utility-First  
+Responsive Styling
+
+🟢 **Active**
+
+</td>
+
+<td align="center" width="20%">
+
+### 🔄 Redux / Zustand
+
+**State Management**
+
+Global State  
+Data & Caching
+
+🟢 **Active**
+
+</td>
+
+<td align="center" width="20%">
+
+### 🌐 HTML / CSS
+
+**Web Foundation**
+
+Semantic Markup  
+Accessible Design
+
+🟢 **Active**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### 💻 GitHub Analytics
+
+<p align="center">
+
+<a href="https://github.com/Abdelghfarsalah">
+  <img
+    src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Abdelghfarsalah&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&include_all_commits=true"
+    width="49%"
+    alt="GitHub Stats"
+  />
+</a>
+
+<a href="https://github.com/Abdelghfarsalah">
+  <img
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Abdelghfarsalah&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117"
+    width="49%"
+    alt="Top Languages"
+  />
+</a>
+
+</p>
+
+<br>
+
+### 🔥 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://streak-stats.vercel.app?user=Abdelghfarsalah&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<br>
+
+---
+
+<!-- ==================== END ==================== -->
 
 
 ---
