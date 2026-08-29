@@ -11,11 +11,7 @@
     width="180"
   />
 </p>
-  <!-- Tech Stack -->
-  <img
-    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,nodejs,git,github,vercel,figma&theme=dark"
-    alt="Tech Stack"
-  />
+  
 
 </div>
 
